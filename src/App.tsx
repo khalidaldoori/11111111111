@@ -2,8 +2,9 @@ import React from 'react'
 
 function App() {
   return (
-    <div>
-      <h1>Welcome to Vite + React</h1>
+    <div style={{ padding: '2rem', textAlign: 'center' }}>
+      <h1>مرحباً بك في تطبيق React</h1>
+      <p>التطبيق يعمل الآن بنجاح!</p>
     </div>
   )
 }
